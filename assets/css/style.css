@@ -59,7 +59,7 @@ p {
     background-position: center;
 }
 
-.float-left {
+.details h2,p {
     float: left;
     margin-right: 25px;
 }
@@ -161,7 +161,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.details img {
     max-height: 200px;
 }
 
