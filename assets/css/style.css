@@ -60,6 +60,8 @@ p {
 .details h2,p {
     float: left;
     margin-right: 25px;
+    margin-bottom:  20px;
+    font-size: 36px;
 }
 
 .float-right {
@@ -117,13 +119,6 @@ p {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
