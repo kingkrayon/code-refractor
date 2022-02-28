@@ -84,13 +84,8 @@ a {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-
-
-.benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+    color:#ffffff;
 }
 
 
@@ -119,21 +114,6 @@ a {
     max-height: 200px;
 }
 
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
