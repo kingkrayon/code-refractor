@@ -46,7 +46,7 @@ a {
     text-decoration: none;
 }
 
-p {
+.details p {
     font-size: 16px;
 }
 
@@ -57,7 +57,7 @@ p {
     background-position: center;
 }
 
-.details h2,p {
+.details h2 {
     float: left;
     margin-right: 25px;
     margin-bottom:  20px;
