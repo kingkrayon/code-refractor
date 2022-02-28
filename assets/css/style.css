@@ -109,10 +109,12 @@ a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    text-align: right;
 }
 
 .details img {
     max-height: 200px;
+    float:left;
 }
 
 
@@ -128,5 +130,5 @@ a {
 }
 
 .text-right {
-    text-align: right;
+    text-align: left;
 }
