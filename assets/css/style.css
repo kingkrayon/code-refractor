@@ -55,7 +55,7 @@ body {
 }
 
 .details h2 {
-    float: center;
+    float: left;
     margin-right: 25px;
     margin-bottom:  20px;
     font-size: 36px;
@@ -126,6 +126,4 @@ body {
     font-size: 20px;
 }
 
-.text-right {
-    text-align: left;
-}
+
